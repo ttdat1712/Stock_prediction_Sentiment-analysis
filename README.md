@@ -17,6 +17,7 @@ The project combines historical stock price data with social media sentiment to 
 ---
 
 ## 📂 Directory Structure
+```
 📁 project_root/
 │
 ├── 📁 Amazon Stock Tweet Analysis
@@ -25,7 +26,7 @@ The project combines historical stock price data with social media sentiment to 
 │   └── Stock_Project_Apple.ipynb     # Jupyter notebook for Apple stock analysis
 ├── requirements.txt                  # Project dependencies
 └── README.md                         # Project overview and setup instructions
-
+```
 ---
 
 ## 📊 Features Used
