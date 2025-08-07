@@ -57,7 +57,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ttdat1712/Stock_prediction_Sentiment-analysis.git
-   cd project_root
+   cd Stock_prediction_Sentiment-analysis
    ```
 2. Install the required dependencies:
 The project relies on the following Python libraries (listed in requirements.txt):
